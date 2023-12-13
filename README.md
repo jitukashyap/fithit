@@ -4,6 +4,8 @@
 
 This web application provides fitness trainers with a user-friendly interface to efficiently manage appointments for their clients. Trainers can easily add, edit, and delete appointments, along with managing client details. The application is designed to be modern, responsive, and intuitive, making appointment management a seamless process.
 
+live link - https://entnt-fithit.netlify.app/
+
 ## Table of Contents
 
 1. [Features](#features)
