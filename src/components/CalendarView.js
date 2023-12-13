@@ -58,7 +58,7 @@ const CalendarView = () => {
               </Popover>
             }
           >
-            <a>{moreCount} more</a>
+            <div>{moreCount} more</div>
           </Whisper>
         </li>
       );

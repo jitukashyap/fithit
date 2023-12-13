@@ -42,5 +42,9 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.6"
-  }
+  },
+  "description": "`npm install` `npm run dev`",
+  "main": "tailwind.config.js",
+  "author": "",
+  "license": "ISC"
 }
